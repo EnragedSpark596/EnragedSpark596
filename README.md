@@ -16,7 +16,7 @@ I'm currently looking to build more real-world experience through small Python a
 * Population and income mapping for a proposed New Jersey makerspace
 * Keyword extraction from podcast transcripts
 
-Tools I've worked with
+**Tools I've worked with**
 
 Python · pandas · NumPy · Matplotlib · scikit-learn · TensorFlow/PyTorch · OpenCV/Pillow · SQL · PostgreSQL · SQLite · MongoDB · APIs/JSON · BeautifulSoup · Selenium · Flask · Jupyter · Git/GitHub
 
